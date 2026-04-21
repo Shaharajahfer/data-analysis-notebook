@@ -3,12 +3,14 @@
 This project focuses on analyzing crime data from Los Angeles between 2020 and 2024. The dataset was obtained from the official Los Angeles open data portal and includes detailed records of reported crimes, such as crime type, location, date, and victim demographics. 
 The objective of this project is to explore patterns in crime data, identify trends over time, and derive meaningful insights using data analysis techniques.
 
+
 ## Objective
 - Perform data cleaning and preprocessing on raw crime data
 - Analyze crime trends over time
 - Identify the most common types of crimes
 - Analyze the age distribution of victims
 - Visualize key insights using charts and graphs
+  
 
 ## Tools & Technologies
 - Python
@@ -16,11 +18,13 @@ The objective of this project is to explore patterns in crime data, identify tre
 - Pandas
 - Matplotlib
 
+
 - ## Key Analysis Performed
 - Data cleaning (handling missing values, formatting columns)
 - Analysis of Crime trends over time
--Crime category distribution analysis
--Visualization of patterns and insights
+- Crime category distribution analysis
+- Visualization of patterns and insights
+
 
 ## Key Insights
 - Certain crime categories show consistent patterns over time
